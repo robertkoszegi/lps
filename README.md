@@ -1,2 +1,2 @@
 # lps
-rock, paper, scissors
+rock, paper, scissors the old way
